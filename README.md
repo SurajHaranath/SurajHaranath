@@ -47,9 +47,12 @@ Bachelor of Dental Surgery - NTR University of Health Sciences
 
 
 📜 Certifications
+
 IBM Data Science & Machine Learning
+
 LinkedIn Learning: Project Management, Azure, Google Cloud Platform
 GDPR Compliance and AI Governance
+
 Basic Life Support (BLS) - National CPRF Foundation
 
 🌐 Let's Connect
