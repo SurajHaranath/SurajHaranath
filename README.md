@@ -58,6 +58,6 @@ Basic Life Support (BLS) - National CPRF Foundation
 🌐 Let's Connect
 I'm always eager to connect with fellow tech enthusiasts, healthcare professionals, and anyone interested in the intersection of tech and health. Let’s chat about digital health, data, and more!
 
-LinkedIn: SurajHaranath
+LinkedIn: www.linkedin.com/in/surajharanath
 
 📧 surajharanath@gmail.com
